@@ -1,0 +1,64 @@
+
+.swiper {
+    width: 310px;
+    height: 440px;
+  }
+  
+  .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+    box-shadow: 2px 2x 2px 1px black;
+  }
+  
+  .swiper-slide:nth-child(1n) {
+    background-color: rgb(117, 115, 115);
+
+  }
+  
+  .swiper-slide:nth-child(2n) {
+    background-color: rgb(164, 176, 185);
+  }
+  
+  .swiper-slide:nth-child(3n) {
+    background-color: rgb(216, 223, 220);
+  }
+  
+  .swiper-slide:nth-child(4n) {
+    background-color: rgb(223, 217, 209);
+  }
+  
+  .swiper-slide:nth-child(5n) {
+    background-color: rgb(210, 214, 199);
+  }
+  
+  .swiper-slide:nth-child(6n) {
+    background-color: rgb(189, 172, 176);
+  }
+  
+  .swiper-slide:nth-child(7n) {
+    background-color: rgb(35, 99, 19);
+  }
+  
+  .swiper-slide:nth-child(8n) {
+    background-color: rgb(0, 68, 255);
+  }
+  
+  .swiper-slide:nth-child(9n) {
+    background-color: rgb(218, 12, 218);
+  }
+  
+  .swiper-slide:nth-child(10n) {
+    background-color: rgb(54, 94, 77);
+  }
+  
+  .generalImage2{
+    width: 100%;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    display: inline-block;
+  }

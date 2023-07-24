@@ -1,0 +1,26 @@
+/*.iFrame{
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 20px;
+}
+*/
+/*
+.carouselControl{
+    border-radius: 20px;
+    width: 60vh !important;
+}
+
+.imgStyle{
+    border: 6px solid red;
+    border-radius: 60px;
+}
+*/
+.box:hover{
+    border: 1px solid rgb(255, 255, 255);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5%;
+    background-color: #f4c0c0;
+    box-shadow: 3px 3px 3px 2px rgba(12, 10, 10, 0.2);
+}

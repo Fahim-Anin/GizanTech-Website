@@ -1,0 +1,54 @@
+.cardContainer{
+    margin-top: 3%;
+    margin-bottom: 3%;
+    padding: 15px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    background-color: rgb(222, 241, 241);
+    box-shadow: 1px 1px 1px 1px rgba(185, 172, 172, 0.2);
+}
+  
+
+
+.cImage{
+    box-shadow: 1px 1px 1px 1px rgba(185, 172, 172, 0.2);
+    background-color: rgb(255, 255, 255);
+  
+    border-radius: 5%;
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    transition: 1s;
+    padding: 5% 
+    
+}
+.cImage:hover{
+    box-shadow: 2px 2px 2px 1px rgba(185, 172, 172, 0.2);
+    background-color: #F6E0D6;
+   
+    border-radius: 5%;
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 5%
+    
+}
+.cImageIn{
+    width: 100%;
+  
+}
+.cTitle{
+    
+    text-align: center;
+    font-weight: 700;
+    color:rgb(67, 58, 58);
+    margin-top: 15px;
+}
+.cTitle:hover{
+    
+    text-align: center;
+    font-weight: 700;
+    color:rgba(223, 130, 9, 0.925);
+    margin-top: 15px;
+
+}

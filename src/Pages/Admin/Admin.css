@@ -1,0 +1,55 @@
+
+
+.adminSection{
+    background-image: url(../../Assets/Images/Admin/bg.jpg);
+    width: 100%;
+    height: 100vh !important;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.optionCard{
+    backdrop-filter: blur(5px); 
+    background: -webkit-linear-gradient(rgba(178, 58, 233, 0.41),rgba(118, 232, 230, 0.05) );
+    box-shadow: 10px 10px rgba(185, 172, 172, 0.2);
+    border-radius: 10%;
+    justify-content: center;
+  
+    outline: none;
+    text-decoration: none !important;
+    text-align: center;
+    font-size: 30px;
+    height: 40vh;
+    
+}
+.empInfoList{
+    background:rgba(190, 186, 186, 0.205);
+    backdrop-filter: blur(3px);
+    text-decoration: none;
+    color: rgb(242, 242, 247) !important;
+    font-size: 20px;
+    border-radius: 10%;
+}
+.teamMember{
+    border-radius: 50%;
+    /* border: 10px 10px #41cf00  !important; */
+    /* background: #000; */
+    
+    height: 150px;
+    width: 150px;
+    margin-top: -50px;  
+    z-index: 2;
+    
+    
+
+}
+.teamMember:hover{
+    border-radius: 50%;
+    /* border: 10px 10px #41cf00  !important; */
+    /* background: #000; */
+    border: 8px solid rgba(9, 134, 187, 0.864) ;
+}
+.editForm{
+    background: linear-gradient(rgba(53, 23, 226, 0.015),rgba(255, 255, 255, 0.043));
+    backdrop-filter: blur(3px);
+}

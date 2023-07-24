@@ -1,0 +1,52 @@
+.contactCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);
+}
+.contactFormImage{
+    width: 100%;
+    height: 100%;
+
+    background-color: rgb(255, 255, 255);
+    
+}
+.commonFormStyle:focus{
+
+    border: 1px solid black !important;
+    box-shadow: none !important
+    }
+
+    .commonButtonStyle{
+        background-color:rgb(49, 190, 155) !important;
+        border: 0px solid black !important;
+        padding: 5px 20px !important;
+        font-size: 20px !important;
+        font-weight: bold;
+    }
+    .commonButtonStyle:focus{
+        border: 0px solid black !important;
+    }
+
+    /*--------------- Form Styles ------------------*/
+
+    .labelStyle{
+        font-size: large;
+        color:rgb(29, 6, 61);
+        font-weight: bold;
+    }
+    .inputStyle{
+        width: 600px;
+        min-height: 50px;
+    }
+    .formStyle{
+        padding-top: 50px;
+    }
+    .buttonStyle{
+        background-image: linear-gradient(123,123,543);
+        padding-left: 10px;
+    }

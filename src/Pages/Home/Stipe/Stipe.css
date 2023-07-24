@@ -1,0 +1,33 @@
+.stipe{
+  
+    text-align: center;
+    min-height: 10px;
+    border-radius: 15px;
+    
+}
+
+.stipe:hover{
+    border: 1px solid rgb(255, 255, 255);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5%;
+    background-color: #abb9f7;
+    box-shadow: 3px 3px 3px 2px rgba(12, 10, 10, 0.2);
+
+    text-align: center;
+    min-height: 10px;
+    border-radius: 10px;
+}
+/*.stipe2{
+    text-align: center;
+    min-height: 30vh;
+    border-radius: 15px;
+    background-image: linear-gradient( to right, rgba(59, 208, 253, 0.151), rgba(247, 123, 41, 0.041));
+    
+
+    text-align: center;
+    min-height: 30vh;
+    border-radius: 15px;
+    background-image: linear-gradient( to right, rgba(59, 208, 253, 0.151), rgba(247, 123, 41, 0.041));
+}
+*/

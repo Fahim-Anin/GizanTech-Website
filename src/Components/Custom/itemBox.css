@@ -1,0 +1,23 @@
+.expertIn{
+    /* border-radius: 8px; */
+    margin-right: 10px;
+    background-color: rgba(195, 242, 239, 0.761) !important;
+    margin-top: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 12px;
+    padding-right: 12px;
+    color: black;
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    /* font-weight: bold; */ 
+}
+/*
+.flexStyleM{
+    display: flex;
+    flex-wrap: wrap;
+
+    text-align: center;
+    justify-content: center;
+    
+}*/

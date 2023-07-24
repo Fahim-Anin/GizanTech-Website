@@ -1,0 +1,28 @@
+.bannerImage{
+    margin-top: -50% !important;
+    margin-bottom: -35% !important;
+    width: 1000px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    display: inline-block;
+}
+.banner{
+   
+}
+.banner-title{
+    font-size: 3rem;
+    font-weight: bold;
+    background: -webkit-linear-gradient(rgb(233, 82, 58),rgb(51, 131, 150) );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.getInTouchButton{
+    font-size: medium;
+}
+
+.paragraphText{
+    font-size: large;
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
+}

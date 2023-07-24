@@ -1,0 +1,54 @@
+.topSection{
+    background-image: url(../../Assets/Images/webDev.jpg);
+
+  
+    /* Add the blur effect */
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    
+    /* Full height */
+    height: 60vh; 
+    
+    /* Center and scale the image nicely */
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100% !important;
+    /* height: 100% !important; */
+}
+.bg-text {
+    /* background-color: rgb(0,0,0); /* Fallback color */
+    /* background-color: rgba(0,0,0, 0.4); Black w/opacity/see-through */ 
+    color: white;
+    font-weight: bold;
+    
+    /* position: absolute; */
+    /* top: 50%;
+    left: 50%; */
+    /* transform: translate(-50%, -50%); */
+    /* z-index: 2; */
+    /* width: 70%; */
+    /* padding: 20px; */
+    text-align: center;
+  }
+  .missionContainer{
+    height: 110vh;
+  }
+  @media screen and (min-width: 992px) {
+  .navCustom{
+    height: 8vh;
+  }
+}
+.contactSection{
+  height: 20vh;
+}
+.collapseTitle{
+  padding: 10px;
+  margin-top: 80px;
+  border: 3px solid rgba(80, 102, 104, 0.935);
+  text-align: center;
+  width: 200px;
+  font-weight: 600;
+  letter-spacing: .6rem;
+  /* background-image: linear-gradient(to right,rgb(163, 219, 209),rgba(173, 201, 195, 0.963),rgba(130, 238, 191, 0.592)); */
+}
